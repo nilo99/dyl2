@@ -1,0 +1,182 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="siticoneTransition1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>279, 17</value>
+  </metadata>
+  <data name="animation1.BlindCoeff" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0
+        dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJh
+        d2luZy5Qb2ludEYCAAAAAXgBeQAACwsCAAAAAAAAAAAAAAAL
+</value>
+  </data>
+  <data name="animation1.MosaicCoeff" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0
+        dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJh
+        d2luZy5Qb2ludEYCAAAAAXgBeQAACwsCAAAAAAAAAAAAAAAL
+</value>
+  </data>
+  <data name="animation1.MosaicShift" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0
+        dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJh
+        d2luZy5Qb2ludEYCAAAAAXgBeQAACwsCAAAAAAAAAAAAAAAL
+</value>
+  </data>
+  <data name="animation1.ScaleCoeff" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0
+        dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJh
+        d2luZy5Qb2ludEYCAAAAAXgBeQAACwsCAAAAAAAAAAAAAAAL
+</value>
+  </data>
+  <data name="animation1.SlideCoeff" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0
+        dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJh
+        d2luZy5Qb2ludEYCAAAAAXgBeQAACwsCAAAAAAAAAAAAgD8L
+</value>
+  </data>
+  <metadata name="siticoneTransition2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>433, 17</value>
+  </metadata>
+  <data name="animation2.BlindCoeff" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0
+        dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJh
+        d2luZy5Qb2ludEYCAAAAAXgBeQAACwsCAAAAAAAAAAAAAAAL
+</value>
+  </data>
+  <data name="animation2.MosaicCoeff" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0
+        dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJh
+        d2luZy5Qb2ludEYCAAAAAXgBeQAACwsCAAAAAAAAAAAAAAAL
+</value>
+  </data>
+  <data name="animation2.MosaicShift" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0
+        dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJh
+        d2luZy5Qb2ludEYCAAAAAXgBeQAACwsCAAAAAAAAAAAAAAAL
+</value>
+  </data>
+  <data name="animation2.ScaleCoeff" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0
+        dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJh
+        d2luZy5Qb2ludEYCAAAAAXgBeQAACwsCAAAAAAAAAAAAAAAL
+</value>
+  </data>
+  <data name="animation2.SlideCoeff" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0
+        dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJh
+        d2luZy5Qb2ludEYCAAAAAXgBeQAACwsCAAAAAAAAAAAAgL8L
+</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABGdBTUEAALGPC/xhBQAAAN5JREFUaEPt
+        lsEKwkAMRHux9Rv0A1U8iF+pKCr+iAfx4GEljjaCadMieEir82B2SzIZKJTtZoQQQgghhBBCCOkHIpKL
+        3KYiaYv9VCptsE/QG6itlfAMGMYw7iE8utphGandBf3YDDSGMBwrA54OWAodM6Aen4HGsmJs00LHDKjH
+        Z+i36JkdpbWOGTqRgcalbmzUWccMqMdnoPgrL/I82jyzo7TSMUMnMtCY142NmumYAfX4DFQLND499nId
+        M6DeiYxHSP9/iC9geL8aXEt9db0IyyCEEEIIIYQQ8n9k2R3/G+yWAHRCBAAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <metadata name="siticoneElipse1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="pictureBox2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABGdBTUEAALGPC/xhBQAABQ9JREFUaEPt
+        mkmsFFUUhp8oEoPwQAYF58Q4LHRlMCa6McY4RQ1oeAhxWOCEunChW8RA4hDYaKILV8hDcaEmGl1InHAG
+        HKILjZq4coizceO71eV3uv/ud++t4VV1Vz/F9J+c2/3q//9zbg1ddarqjY0wwgizhzRNj01Ttz5Nk63E
+        ZJq2XuVzfyfa31lmnFuHdrls/w0woWVM7h4m9yGfLYJFlQKte4fYyB9HK93sg+KLmMw24k9vcv3Gz8Rm
+        vixU+tkBW/FmCv/gTaSp+I7cN6jM8EClcY71Z3Mm4MdfaPbyuZ3YxMTWEhOd78kOcWhyvd3YzTCcvUPi
+        lRT4NCrYjb+JXUz4Mv44UpZCmAbt5XiYcNvr5+rGxwwrZGkGJDyOxF9HhbrxFMOJktYG3pPIYSvk5+zG
+        VwzNrAyJ5pPwQFTA4ke26hWSDQxyXU3On6IaFp8wLJCsf5BoZ5TY4kuGkyVpDOQ8ldzshUy9nZL0B7bS
+        hpykthLNHrseyH08NXJWxk1IUg84l5CAwydIyK5vfk/EoIbtmV+i2pya00WSVAfGh6JEhFsteuigFqft
+        uH6yTXQ14LCr9h9hktYe0RlAzqHwGuI6xTWiMjDO0+FJ54jKgJrPh3NIfmMYFz0zMNjFy08wxXCK6Fyg
+        eSz0uGtF9dCZvK9JHhWVCwSnoXGR5zbRM4OC70XmXaIKgWgxOv83ZSeFuaKN5yIYXIvQpotFFwLdM56H
+        cPtElQPlCgxRFzt1kehSoL0l9CWbRBl3Z8i5jaJKQe1LQp/NLV0muhgUiH9kdlweIboU6Oy38r7nta2+
+        sBP+3jJN8W/DB7q5eKIO260RXQyEdlPkmVoviqoEDOfj8/fo/cQW728bzpW8EpjDK57fYouoYmCKu9sH
+        RVUGHvqvnt/Ofv4ZsPZVGs8jnt/iaVHFYLe9GZluF1UZmJbj+zXKY8Gy+re4+KKzqHtdVDEQHoxM60XV
+        At77wjztuFd0LTCHuFU6IKoYiD4KTe56UbWA94kwTzseF10Lfa5II4fWKnyYgzwWNqySrDLw3RHmca+J
+        KsagP3YMh0Ubwx4seA2ge8M0klcCvoen/e3YLaoYiB4ITXVPv+6m0J/cRdwdLnM3Sl4JzOHl0J9sFlUM
+        itDIBSa7IB4uuhTorNn0n658wcAFrX1Ro2XpLf+eoVJLLm98QSxsSntAdQxi1L5x6lLRpUC7I/RNt/05
+        G2i7qFLguzLy0URW7IAxvxuZJ0UVAtE56OiSux73lqgeWLZvmm931GeLKgSH1R7PQ2TzFgJD1OCVt/Fw
+        8Q/cGrvzRPdgyzpcV9faKyoXCM5CN0gb327Jfw8TlN5YzePwu3g60gtEZQB3YaSdJyoDar4UzqHmjZUB
+        U9Q8WmRvloYFaq3L1k+2iq4OXOMYueEPEtkWOUOSoYEadkhFt9p9PnwwsFXsXYefzOIbhpWSNA5yn0CN
+        b6OahFsrSX8gSd4DOluZ0yVpDOS0PZGzEsmTkvQPssxna3yQk5yW3F0l2cAg12pyRicYC7sUpEdJNhhI
+        tJSkn2eLWLSeYzhT0trAy15ovZCfO/mMYYmkzYCEdrMUtfi9sHP9JFuv7msFe0JCgkw+i/0MS2VpFiSu
+        86LH2hV70TPRidovegZ/Aj8TmNih/erNB1Wt07WWP37Y3E/8Oy9DfVB8AZO4lS1pTyejB3ulgda9Tdjr
+        6eEfRnXAhLr/MGCvrTnOD6F/GBhhhP81xsb+AdOKp1yvSCWYAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <metadata name="siticoneElipse2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>148, 17</value>
+  </metadata>
+  <metadata name="siticoneElipse3.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>587, 17</value>
+  </metadata>
+</root>
